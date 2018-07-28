@@ -6,6 +6,10 @@ subject: "Markdown"
 keywords: [Markdown, Example]
 subtitle: "Refer to U.Mosel, Path Integrals in Field Theory"
 titlepage: true
+titlepage-color: 06386e
+titlepage-text-color: ffffff
+titlepage-rule-color: ffffff
+titlepage-rule-height: 2
 ...
 
 \newcommand{\OOD}[2]{\dfrac{d^2 #1}{d #2^2}}
